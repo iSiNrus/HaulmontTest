@@ -1,2 +1,7 @@
-.idea\
-target\
+.idea
+target
+compiler.xml
+vcs.xml
+workspace.xml
+misc.xml
+encodings.xml
